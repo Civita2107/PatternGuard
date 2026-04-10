@@ -1,6 +1,9 @@
 Cybersecurity
 
+#TODO
 - detector script (keydown_time, keyup_time, dwell_time, flight_time)
 - threat modeling
 - backend
 - model training
+- data gathering
+- data modelling 
